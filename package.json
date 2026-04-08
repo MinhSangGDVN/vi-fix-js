@@ -1,0 +1,27 @@
+{
+  "name": "vi-fix-js",
+  "version": "1.0.0",
+  "description": "Thư viện siêu nhẹ xử lý Tiếng Việt: chuẩn hóa dấu, bỏ dấu, CCCD, nhà mạng và nhiều hơn thế nữa!",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "vietnamese",
+    "normalization",
+    "vi-fix",
+    "cccd",
+    "remove-diacritics"
+  ],
+  "author": "MinhSangGD <minhsanggd@mscrew.io.vn>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinhSangGDVN/vi-fix-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MinhSangGDVN/vi-fix-js/issues"
+  },
+  "homepage": "https://lib.mscrew.io.vn/vi-fix/js"
+}
